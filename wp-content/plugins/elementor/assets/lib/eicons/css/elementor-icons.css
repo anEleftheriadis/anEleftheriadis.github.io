@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
-  src: url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("/https://aneleftheriadis.github.io//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
+  src: url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
+  src: url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("httpanEleftheriadis.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
